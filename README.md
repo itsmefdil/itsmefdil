@@ -3,7 +3,7 @@ Hello, I'm [FadilahRiczky](#) 👋
 
 ## 🔥 Popular Projects
 
-- [SIPPM](https://github.com/CharlesPikachu/Games): Create interesting games by pure python.
+- [SIPPM](#): Sistem Informasi PPM Nur Baiturrahman.
 
 
 

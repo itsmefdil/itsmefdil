@@ -1,7 +1,7 @@
-Hello, I'm [FadilahRiczky](#) 👋
+Hello, I'm [FadilahRiczky](https://friczky.vercel.app) 👋
 
 
-## 🔥 Popular Projects
+## 🔥 Progress Projects
 
 - [SIPPM](#): Sistem Informasi PPM Nur Baiturrahman.
 

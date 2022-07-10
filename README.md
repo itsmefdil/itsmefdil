@@ -1,4 +1,4 @@
-Hello, I'm [FadilahRiczky](https://friczky.vercel.app) 👋
+Hello, I'm [FadilahRiczky](https://friczky.github.io) 👋
 
 
 ## 🔥 Progress Projects

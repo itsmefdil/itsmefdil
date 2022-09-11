@@ -1,7 +1,7 @@
 Hello, I'm [FadilahRiczky](https://friczky.github.io) 👋
 I am a DevOps Engginer. Right now i am currently focusing on devops and web development. And here is some information about myself :
 
- 👨‍💼 I’m currently working on Remote.
+ 👨‍💼 I’m currently working on Remote for DevOps.
  
 🌱 I’m currently learning DevOps and Web Developer (PHP,NodeJs,Go) .
 

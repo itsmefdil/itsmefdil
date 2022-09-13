@@ -25,3 +25,4 @@ I am a DevOps Engginer. Right now i am currently focusing on devops and web deve
     </td>
   </tr>
 </table>
+<img align="center" padding="0;" src="https://activity-graph.herokuapp.com/graph?username=friczky&bg_color=white&color=5BCDEC&line=5BCDEC&point=E0E0E0&hide_border=true"/>

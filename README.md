@@ -9,8 +9,8 @@ I am a Newbie. Right now i am currently focusing on devops and web development. 
 
 
 
-## 🏆 Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=friczky)](https://github-profile-trophy.vercel.app/?username=friczky)
+<!-- ## 🏆 Github Trophy -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=friczky)](https://github-profile-trophy.vercel.app/?username=friczky) -->
 
 
 <table>

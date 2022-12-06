@@ -13,6 +13,11 @@ I am a Newbie. Right now i am currently focusing on devops and web development. 
  6. Docker
  7. aaPanel
  8. Linux
+ 9. ORACLE DATABASE
+ 10. SQL SERVER
+ 11. MYSQL
+ 12. Laravel
+ 13. CodeIgniter3
 
 
 <!-- ## 🏆 Github Trophy -->

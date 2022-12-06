@@ -2,11 +2,17 @@ Hello, I'm [FadilahRiczky](https://friczky.github.io) 👋
 I am a Newbie. Right now i am currently focusing on devops and web development. And here is some information about myself :
 
  🌱 I’m currently learning DevOps and Web Developer (PHP,NodeJs,Go) .
-
-🚀 2022 Goal : Finish my study at University
-
-🔥 Target to be Professional DevOps Engginer
-
+ 
+ Tech Use : 
+ 
+ 1. Vs Code, Vim
+ 2. Git
+ 3. Kubernetes
+ 4. Ansible
+ 5. Vagrant
+ 6. Docker
+ 7. aaPanel
+ 8. Linux
 
 
 <!-- ## 🏆 Github Trophy -->

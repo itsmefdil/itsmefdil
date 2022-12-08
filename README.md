@@ -5,7 +5,7 @@ I am a Newbie. Right now i am currently focusing on devops and web development. 
  
  Tech Use : 
  
- 1. Vs Code, Vim
+ 1. Vs Code, Neovim
  2. Git
  3. Kubernetes
  4. Ansible

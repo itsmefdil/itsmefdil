@@ -12,13 +12,14 @@ I am a Newbie. Right now i am currently focusing on devops and web development. 
  5. Vagrant
  6. Docker
  7. aaPanel
- 8. Linux
- 9. ORACLE DATABASE
- 10. SQL SERVER
- 11. MYSQL
- 12. Laravel
- 13. CodeIgniter3
- 14. Nix
+ 8. Plesk
+ 9. Linux
+ 10. ORACLE DATABASE
+ 11. SQL SERVER
+ 12. MYSQL
+ 13. Laravel
+ 14. CodeIgniter3
+ 15. Nix
 
 
 <!-- ## 🏆 Github Trophy -->

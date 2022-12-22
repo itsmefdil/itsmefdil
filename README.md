@@ -18,6 +18,7 @@ I am a Newbie. Right now i am currently focusing on devops and web development. 
  11. MYSQL
  12. Laravel
  13. CodeIgniter3
+ 14. Nix
 
 
 <!-- ## 🏆 Github Trophy -->

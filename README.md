@@ -20,6 +20,10 @@ I am a Newbie. Right now i am currently focusing on devops and web development. 
  13. Laravel
  14. CodeIgniter3
  15. Nix
+ 16. Google Cloud Platform
+ 17. Aws
+ 18. Digital Ocean
+ 19. Sakura Cloud Network
 
 
 <!-- ## 🏆 Github Trophy -->

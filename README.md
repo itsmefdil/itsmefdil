@@ -25,6 +25,9 @@ I am a Newbie. Right now i am currently focusing on devops and web development. 
  18. Digital Ocean
  19. Sakura Cloud Network
 
+Community :
+1. [BlankOn Linux](https://blankon.id)
+2. [OpenInfra Indonesia](https://openinfra.id)
 
 <!-- ## 🏆 Github Trophy -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=friczky)](https://github-profile-trophy.vercel.app/?username=friczky) -->

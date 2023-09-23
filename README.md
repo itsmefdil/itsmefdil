@@ -1,7 +1,7 @@
 
 
 Hello, I'm [FadilahRiczky](https://friczky.my.id) 👋
-I am a Newbie. Right now i am currently focusing on devops and web development. And here is some information about myself :
+I am currently focusing on devops and web development. And here is some information about myself :
 
  🌱 I’m currently learning DevOps and Web Developer (PHP,NodeJs,Go) .
  
